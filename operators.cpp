@@ -5,12 +5,12 @@ using namespace std;
 int main()
 {
 
-    int a = 5, b = 4;
+    int a =5 , b = 4;
 
     cout << "---Operators in C++---" << endl<< endl;
 
-    cout << "The value of a+b is : " << a + b << endl;
     cout << "The value of a-b is : " << a - b << endl;
+    cout << "The value of a+b is : " << a + b << endl;
     cout << "The value of a+b is : " << a + b << endl;
     cout << "The value of a*b is : " << a * b << endl;
     cout << "The value of a/b is : " << a / b << endl;

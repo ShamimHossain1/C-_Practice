@@ -15,38 +15,10 @@ My approach to learning C++ involves a combination of theory and hands-on practi
 
 ### Basics
 
-In the "Basics" directory, you'll find exercises and examples covering fundamental concepts such as:
-
 - Variables and data types
 - Operators
 - Control structures (if statements, loops)
 - Functions
-
-### Object-Oriented Programming (OOP)
-
-The "OOP" directory is dedicated to exploring object-oriented programming principles in C++, including:
-
-- Classes and objects
-- Inheritance
-- Polymorphism
-- Encapsulation
-
-### Standard Template Library (STL)
-
-In the "STL" directory, I'll be experimenting with the Standard Template Library, which provides a rich collection of data structures and algorithms. Topics include:
-
-- Vectors
-- Lists
-- Maps
-- Algorithms (sorting, searching, etc.)
-
-### Projects
-
-The "Projects" directory contains larger-scale projects or exercises where I apply the concepts learned in previous sections. These projects may vary in complexity and serve as opportunities to reinforce my understanding of C++ programming principles.
-
-## Getting Involved
-
-I welcome feedback, suggestions, and contributions from fellow learners and experienced programmers alike. If you notice any errors, have suggestions for improvement, or want to collaborate on a project, feel free to open an issue or submit a pull request.
 
 ## Conclusion
 
